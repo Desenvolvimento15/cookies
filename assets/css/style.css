@@ -164,7 +164,7 @@ body {
   }
 
   .toggle-slider:before {
-    content: "Off";
+    content: "Desativado";
     color: white;
     font-size: 14px;
     line-height: 30px;
@@ -182,7 +182,7 @@ body {
   }
 
   .toggle-checkbox:checked + .toggle-slider:before {
-    content: "On";
+    content: "Ativado";
     transform: translateX(50%);
   }
 
