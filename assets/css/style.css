@@ -11,6 +11,16 @@
     display: flex;
   }
 
+  .buttons-icons{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  gap: 0.3rem;
+  }
+
   .cookie-banner {
   background-color:#000000;
   color: white;
