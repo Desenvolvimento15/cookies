@@ -3,14 +3,10 @@
   font-family: Arial, sans-serif;
   }
 
-  .img-icons{
-    width: 1rem;
-  }
+  .img-icons{width: 1rem;}
 
-  .grid-buttons{
-    display: flex;
-  }
-
+  .grid-buttons{display: flex;}
+  
   .buttons-icons{
   display: flex;
   flex-direction: row;
